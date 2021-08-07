@@ -1,0 +1,12 @@
+{
+  "name": "CellReader",
+  "displayName": "CellReader",
+  "expo": {
+    "name": "CellReader",
+    "slug": "CellReader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
